@@ -10,6 +10,6 @@ javascript:
     - npm run build
     - npm run test
   artifacts:
-  reports:
-  junit:
-    - junit.xml
+    reports:
+      junit:
+       - junit.xml
