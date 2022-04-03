@@ -1,0 +1,7 @@
+# Ignore typical output directories
+dist
+.webpack
+# Node.js specific
+node_modules
+# macos specific files
+.DS_Store
